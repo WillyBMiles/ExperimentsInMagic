@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|c:\\users\\willi\\documents\\gamejams\\wizardtowerofpower\\assets\\scripts\\spells\\resources\\spells\\classes\\shape_nearby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\shape_nearby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|c:\\users\\willi\\documents\\gamejams\\wizardtowerofpower\\assets\\scripts\\deathanddamagedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathanddamagedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\affected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\affected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spellbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spellbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\glyphmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\glyphmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\smoothpointtowardscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\smoothpointtowardscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\prefabs\\spellinstructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\spellinstructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\shape_projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\shape_projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\effect_heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\effect_heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\effect_fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\effect_fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\shape_caster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\shape_caster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\effect_duplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\effect_duplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\effect_changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\effect_changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\effect_launch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\effect_launch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\effectvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\effectvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spelldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spelldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\movearoundabit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movearoundabit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\destroyparentless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyparentless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\controlsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\miniobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\glyphdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\glyphdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\prefabs\\singlespellinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\singlespellinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\singleglyph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleglyph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\spells\\resources\\spells\\classes\\shape_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spells\\resources\\spells\\classes\\shape_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\assets\\scripts\\neural net\\glyphinputnodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494387E-2F9F-3749-4E3B-9A6D5FFB2EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\neural net\\glyphinputnodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SingleGlyph.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SingleGlyph.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SingleGlyph.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SingleGlyph.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SingleGlyph.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T03:49:40.263Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Effect.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Effect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:33:31.552Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Shape.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Shape.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Shape.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Shape.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:31:49.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EffectValue.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\EffectValue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\EffectValue.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\EffectValue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\EffectValue.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T02:24:04.468Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DestroyParentless.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\DestroyParentless.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyParentless.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\DestroyParentless.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyParentless.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:11:14.02Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape_Nearby.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Nearby.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Nearby.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Nearby.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Nearby.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:29:40.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:10:41.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:22:36.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Effect_Heal.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Heal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Heal.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Heal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Heal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:59:10.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shape_Caster.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Caster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Caster.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Caster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Caster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:45:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Effect_Duplicate.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Duplicate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Duplicate.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Duplicate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Duplicate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:38:20.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Effect_ChangeSize.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_ChangeSize.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_ChangeSize.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_ChangeSize.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_ChangeSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:30:45.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Effect_Fireball.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Fireball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Fireball.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Fireball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Fireball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:57:07.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Effect_Launch.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Launch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Launch.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Launch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Effect_Launch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:16:26.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MoveAroundABit.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\MoveAroundABit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveAroundABit.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\MoveAroundABit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveAroundABit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:43:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ControlsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\ControlsDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlsDisplay.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\ControlsDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlsDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:41:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Floor.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Floor.cs",
+              "RelativeToolTip": "Assets\\Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:27:55.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SingleSpellInstruction.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Prefabs\\SingleSpellInstruction.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\SingleSpellInstruction.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Prefabs\\SingleSpellInstruction.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\SingleSpellInstruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:54:17.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpellInstructions.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Prefabs\\SpellInstructions.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\SpellInstructions.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Prefabs\\SpellInstructions.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\SpellInstructions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:52:39.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpellDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SpellDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpellDisplay.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SpellDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpellDisplay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:01:30.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MiniObject.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\MiniObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniObject.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\MiniObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:59:47.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shape_Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Projectile.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Projectile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:58:45.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionManager.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwEQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:41:51.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpellBook.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SpellBook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpellBook.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SpellBook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpellBook.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:19:20.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Shape_Default.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Default.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Default.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Default.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\Resources\\Spells\\Classes\\Shape_Default.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:54:04.168Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeathAndDamageDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\DeathAndDamageDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathAndDamageDisplay.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\DeathAndDamageDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathAndDamageDisplay.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:27:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Affected.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Affected.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Affected.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Affected.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Affected.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAYwJUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:56:37.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmoothPointTowardsCamera.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SmoothPointTowardsCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothPointTowardsCamera.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\SmoothPointTowardsCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SmoothPointTowardsCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:35:31.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlyphManager.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\GlyphManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlyphManager.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\GlyphManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlyphManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwHAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:57:11.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GlyphInputNodes.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Neural Net\\GlyphInputNodes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Neural Net\\GlyphInputNodes.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Neural Net\\GlyphInputNodes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Neural Net\\GlyphInputNodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:45:25.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GlyphDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\GlyphDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlyphDisplay.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\GlyphDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlyphDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T03:46:41.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpellManager.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\SpellManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spells\\SpellManager.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\GameJams\\WizardTowerOfPower\\Assets\\Scripts\\Spells\\SpellManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spells\\SpellManager.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAuwOAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:39:00.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

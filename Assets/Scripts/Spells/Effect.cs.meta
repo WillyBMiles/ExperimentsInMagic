@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6dc09c64d3256fb4282adb06feb6f325
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - miniObject: {fileID: -1495038370245803320, guid: 485752126168c8144980171843ed790d, type: 3}
+  - auraObject: {fileID: 432023879043141655, guid: 0b191c4d2efd37344a90c4ebdf1505ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

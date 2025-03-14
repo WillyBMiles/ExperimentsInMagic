@@ -1,0 +1,3 @@
+repository "WizardTowerOfPower/WizardTowerOfPower@901739@cloud"
+  path "/"
+    smartbranch "/main"
