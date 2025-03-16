@@ -5,4 +5,4 @@ This repository exists solely as an example and reference for source code.
 Unity Version Control was used on this project.
 
 Please refer to this page for more information:
-https://builds.games/will-portfolio-experiments-in-magic/https://builds.games/will-portfolio/experiments-in-magic/
+https://builds.games/wills-portfolio/experiments-in-magic/
